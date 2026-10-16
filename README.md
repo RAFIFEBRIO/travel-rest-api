@@ -1,9 +1,9 @@
 # Travel Backend
 
 Nama Kelompok:
-1. Muhammad Rafi Febrio
-2. Bintang Adhi susanto
-3. Achmad Rafi Ilmal
+1. Muhammad Rafi Febrio (24051214196)
+2. Bintang Adhi susanto(24051214197)
+3. Achmad Rafi Ilmal (24051215204)
 4. Netha Yuwira
 
 REST API + database untuk aplikasi Flutter pemesanan travel (Malang–Surabaya, dll).
