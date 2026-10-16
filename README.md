@@ -7,7 +7,7 @@ Nama Kelompok:
 4. Netha Yuwira
 
 REST API + database untuk aplikasi Flutter pemesanan travel (Malang–Surabaya, dll).
-**Self-hosted** — hanya Node.js + Express + SQLite. Tidak memakai Supabase, Firebase, atau BaaS lain.
+**Self-hosted** — hanya Node.js + Express + SQLite. 
 
 Butuh **Node.js >= 22.13**. SQLite memakai modul bawaan Node (`node:sqlite`), jadi `npm install` tidak
 mengompilasi apa pun dan tidak perlu Visual Studio/Python. Saat server start akan muncul peringatan
@@ -48,7 +48,7 @@ Database tersimpan di `data/travel.db` (satu file, otomatis dibuat).
 Skema database dikelola lewat file SQL berurutan di folder `migrations/` (mis. `001_init.sql`).
 `npm run migrate` menerapkan migration yang belum dijalankan; riwayatnya dicatat di tabel
 `schema_migrations`. Server juga menjalankannya otomatis saat start. Untuk mengubah skema,
-tambahkan file baru (`002_nama_perubahan.sql`) — jangan mengedit migration yang sudah dipakai.
+tambahkan file baru (`002_nama_perubahan.sql`)
 
 ## Skema database
 
