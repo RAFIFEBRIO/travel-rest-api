@@ -90,8 +90,5 @@ Endpoint bertanda 🔒 butuh header `Authorization: Bearer <token>`.
 | GET | `/api/bookings/:id` 🔒 | detail/struk | PaymentSuccessPage |
 | GET | `/health` | cek server hidup | — |
 
-Format jam sengaja `"07.00"` (titik) agar langsung cocok dengan tampilan yang sudah ada.
-Field `booking` sudah memuat semua yang dibutuhkan struk & tiket: `booking_code`, `invoice_number`,
-`status_label` ("Lunas"), `seat_numbers`, `ticket_price`, `additional_fee`, `total_payment`,
-`payment_method_label`, `passenger_name`, dst.
+
 
