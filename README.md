@@ -1,10 +1,11 @@
 # Travel Backend
 
 Nama Kelompok:
-1. Muhammad Rafi Febrio (24051214196)
-2. Bintang Adhi susanto(24051214197)
-3. Achmad Rafi Ilmal (24051215204)
-4. Netha Yuwira
+1. Netha Yuwira almaizani (24051214185)
+2. Muhammad Rafi Febrio (24051214196)
+3. Bintang Adhi susanto(24051214197)
+4. Achmad Rafi Ilmal (24051215204)
+
 
 REST API + database untuk aplikasi Flutter pemesanan travel (Malang–Surabaya, dll).
 **Self-hosted** — hanya Node.js + Express + SQLite. 
