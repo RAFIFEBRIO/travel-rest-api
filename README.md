@@ -1,5 +1,11 @@
 # Travel Backend
 
+Nama Kelompok:
+1. Muhammad Rafi Febrio
+2. Bintang Adhi susanto
+3. Achmad Rafi Ilmal
+4. Netha Yuwira
+
 REST API + database untuk aplikasi Flutter pemesanan travel (Malang–Surabaya, dll).
 **Self-hosted** — hanya Node.js + Express + SQLite. Tidak memakai Supabase, Firebase, atau BaaS lain.
 
